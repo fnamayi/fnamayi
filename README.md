@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Franklyne</h1>
-<h3 align="center">An Apprentice Software Developer @Zone01Kisumu</h3>
+<h3 align="center">Software Developer @Zone01Kisumu</h3>
 
 - 🌱 I’m currently learning **GO, RUST, JAVASCRIPT**
 
-- 💬 Ask me about **Network Programming with GO**
+- 💬 Ask me about **Network Programming with GO,Rust,C**
 
 - 📫 How to reach me **franklynenm@gmail.com**
 
